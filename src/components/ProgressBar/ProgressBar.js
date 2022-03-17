@@ -1,5 +1,4 @@
 import React from 'react';
-import { View } from 'react-native';
 import ProgressBar from 'react-native-progress/Bar';
 import { Styles } from './Styles';
 
